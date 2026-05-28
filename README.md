@@ -1,7 +1,7 @@
 <h1 align="center">Echo Tian</h1>
 
 <p align="center">
-  <i>金融研究生 · 量化交易学习者 · 从零到一的记录者</i>
+  <i>金融研究生 · 量化交易学习者 · 从0到100的记录者</i>
 </p>
 
 <p align="center">
@@ -37,12 +37,7 @@
 
 
 
----
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Echo-Tian1&show_icons=true&theme=default&hide_border=true" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Echo-Tian1&layout=compact&theme=default&hide_border=true" height="150" />
-</p>
 
 ---
 
